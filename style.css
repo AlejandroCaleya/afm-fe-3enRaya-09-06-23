@@ -1,0 +1,20 @@
+h1 {
+	text-align: center;
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+}
+
+#container {
+	width: 600px;
+	display: none;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+.backgroudnclr {
+	background-color: white;
+	width: 200px;
+	height: 200px;
+}
