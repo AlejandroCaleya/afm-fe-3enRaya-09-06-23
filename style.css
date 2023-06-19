@@ -13,7 +13,7 @@ h1 {
 	grid-template-columns: 1fr 1fr 1fr;
 }
 
-.backgroudnclr {
+div button {
 	background-color: white;
 	width: 200px;
 	height: 200px;
